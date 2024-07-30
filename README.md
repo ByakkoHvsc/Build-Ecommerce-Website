@@ -1,4 +1,7 @@
-# Full Responsive Ecommerce Website
+<div align="center">
+  <img src="img/banner/b1.jpg" alt="banner" style="width: 1080px;"/>
+    <h1>Full Responsive Ecommerce Website</h1>
+</div>
 
 This project is a fully responsive ecommerce website built using HTML, CSS, and JavaScript. It includes a comprehensive set of pages and features to create a complete ecommerce experience.
 
@@ -40,3 +43,7 @@ All necessary images and other assets are included in the repository.
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, make changes, and submit pull requests.
+
+## Disclaimer
+
+This project is a recreation of an existing project for educational purposes. All credits go to the original creators.
